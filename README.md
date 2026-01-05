@@ -25,7 +25,7 @@ When you update your font (new version or new release), please report all notabl
 [Font Versioning](https://github.com/googlefonts/gf-docs/tree/main/Spec#font-versioning) is based on semver.
 Changelog example:
 
-**1 Jan 2026. Version 0.01**
+**5 Jan 2026. Version 0.01**
 
 - Initial commit. Very barebones, only one weight with GF Latin Kernel support and some kerning.
 
