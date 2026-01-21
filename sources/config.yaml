@@ -19,7 +19,7 @@ familyName: "Norm Grotesk Alpha"
 outputDir: ../fonts
 vfDir: $outputDir/variable
 # ttDir: $outputDir/ttf
-# otDir: $outputDir/otf
+otDir: $outputDir/otf
 # woffDir: $outputDir/webfonts
 
 # The following entries, which are either "true" or "false"
