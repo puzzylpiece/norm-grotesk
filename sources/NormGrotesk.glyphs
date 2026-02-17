@@ -1,9 +1,6 @@
 {
 .appVersion = "3501";
 .formatVersion = 3;
-DisplayStrings = (
-_
-);
 axes = (
 {
 name = Weight;
@@ -1846,7 +1843,7 @@ unicode = 70;
 glyphname = G;
 kernLeft = C2;
 kernRight = G;
-lastChange = "2026-02-06 17:15:35 +0000";
+lastChange = "2026-02-06 17:22:08 +0000";
 layers = (
 {
 anchors = (
@@ -1960,8 +1957,8 @@ nodes = (
 (705,0,l),
 (705,401,l),
 (367,401,l),
-(367,226,l),
-(529,226,l),
+(367,236,l),
+(529,236,l),
 (529,0,l)
 );
 }
